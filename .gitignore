@@ -1,0 +1,5 @@
+models/
+vectorstore/db_faiss/
+src/__pycache__/
+output.csv
+output.wav
